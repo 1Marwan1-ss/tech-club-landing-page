@@ -17,3 +17,5 @@ The project is built using React and TypeScript, bootstrapped with Vite. All reu
 2. Run `npm install` to install dependencies.
 3. Run `npm run dev` to start the local development server.
 4. Open the `localhost` link in your browser.
+5. 
+![Final UI Screenshot](./screenshot.png)
